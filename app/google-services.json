@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706906181496",
+    "project_id": "shopin-3c998",
+    "storage_bucket": "shopin-3c998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706906181496:android:ed803ca30d32ccde2f028d",
+        "android_client_info": {
+          "package_name": "com.example.productadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCflNn8Ye_8R28tXDn5CEq1xbny1JjKiDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706906181496:android:b6c10ff458d72ce52f028d",
+        "android_client_info": {
+          "package_name": "com.example.shopin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCflNn8Ye_8R28tXDn5CEq1xbny1JjKiDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
